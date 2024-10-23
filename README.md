@@ -5,7 +5,7 @@ I am passionate about applying my knowledge in the intersection of technology an
 
 **✅ Skills**
 - Programming Languages: Python, C++, HTML, CSS, JavaScript
-- Technologies: Genome Sequencing, Machine Learning, Data Analysis, Bioinformatics
+- Technologies: Genome Sequencing, Bioengineering, Data Analysis, Bioinformatics
 
 **🌍 Let's Connect!**
 - Website: https://portfolio-website-45f45.web.app
