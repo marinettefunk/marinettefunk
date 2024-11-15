@@ -1,7 +1,7 @@
 # Hi, I'm Marinette Funk!
 > Bio/Medical Engineering | BSc Computer Science | BSc Human Genetics and Physiology
 
-I am passionate about applying my knowledge in the intersection of technology and healthcare and biological fields to create innovative solutions.
+Imagine a curious mind equipped with the precision of computer science, the ingenuity of software engineering, and a deep understanding of molecular biology, all coming together to drive innovation in biomedical technology. My mission is to harness these skills to create impactful, real-world solutions—whether it's decoding complex biological systems or engineering the next wave of health tech. With a passion for blending disciplines and a vision for pushing boundaries, I’m committed to making meaningful contributions at the intersection of health and technology!
 
 **✅ Skills**
 - Programming Languages: Python, C++, HTML, CSS, JavaScript
